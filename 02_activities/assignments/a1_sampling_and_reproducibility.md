@@ -40,7 +40,7 @@ Run the Python script file called whitby_covid_tracing.py as is and compare the 
 Modify the number of repetitions in the simulation to 1000 (from the original 50000). Run the script multiple times and observe the outputted graphs. Comment on the reproducibility of the results.
     I modified the number of repetitions to 5000 and ran the code 5 times. Each time it produced a similar graph. 
 
-5. Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
+Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
     I changed the attack_rate to 0.30 and the trace_sucess to 0.15, repetitions in the similation to 1000. Both the Infections from Weddings and Traced to weddings bars shrunk, however, there is still quite an overlap between the two. 
 
 ```
