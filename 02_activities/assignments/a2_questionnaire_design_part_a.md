@@ -16,31 +16,33 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
-Describe the purpose of your survey:
+Describe the purpose of your survey: 
 ```
-write your answer here...
+The purpose of this survey is to determine why there is a high turnover rate amongst entry and lower level positions in the tech department. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Individuals in entry and lower level positions in tech positions. 
+Sampling Frame: All entry and lower level positions within the company. 
+Sampling Units: Individuals
+Observational Units: Individuals
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1. How satisfied are you with your current role?
+2. What factors influence your satisfaction or dissatisfaction with your current role? 
+3. Do you feel that your contributions are recognized and valued by your supervisors and colleagues?
+4. How comfortable do you feel approaching your supervisors or HR with concerns or feedback?
+5. Have you received adequate training and support to perform your job effectively?
+6. Have you experienced any instances of workplace stress or burnout? If yes, can you describe them?
+7. How would you rate the support you receive from your immediate supervisor?
+8. Do you feel that there is effective communication from management regarding company goals and changes?
+9. Have you ever considered leaving Tech Company? If yes, what were the primary reasons for considering leaving?
+10. Is there additional feedback, comments or concerns you would like to provide?
 
 ## Rubric
 
