@@ -24,25 +24,22 @@ The purpose of this survey is to determine why there is a high turnover rate amo
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
+``` 
 Target Population: Individuals in entry and lower level positions in tech positions. 
 Sampling Frame: All entry and lower level positions within the company. 
 Sampling Units: Individuals
 Observational Units: Individuals
+Sampling Strategy: Simple Random Sampling 
+Reasoning: The reason I selected simple random sampling is because my goal is to collect information from those in entry and lower level positions in tech positions only. From this population I don't need to further subdivide them so this would be the best method in this situation. 
 ```
 
 Your 5-10 question survey:
 ```
-1. How satisfied are you with your current role?
-2. What factors influence your satisfaction or dissatisfaction with your current role? 
-3. Do you feel that your contributions are recognized and valued by your supervisors and colleagues?
-4. How comfortable do you feel approaching your supervisors or HR with concerns or feedback?
-5. Have you received adequate training and support to perform your job effectively?
-6. Have you experienced any instances of workplace stress or burnout? If yes, can you describe them?
-7. How would you rate the support you receive from your immediate supervisor?
-8. Do you feel that there is effective communication from management regarding company goals and changes?
-9. Have you ever considered leaving Tech Company? If yes, what were the primary reasons for considering leaving?
-10. Is there additional feedback, comments or concerns you would like to provide?
+1. Do you plan on leaving the company within the next six months? Yes or No
+2. Do you feel that your contributions are recognized and valued by your supervisors and colleagues? Yes or No
+3. Have you received adequate training and support to perform your job effectively? Yes or No
+4. Have you experienced any instances of workplace stress or burnout? Yes or No
+5. How would you rate the support you receive from your immediate supervisor? On a scale from 1-10.
 
 ## Rubric
 
