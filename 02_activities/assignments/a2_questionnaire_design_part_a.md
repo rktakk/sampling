@@ -16,31 +16,30 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
-Describe the purpose of your survey:
+Describe the purpose of your survey: 
 ```
-write your answer here...
+The purpose of this survey is to determine why there is a high turnover rate amongst entry and lower level positions in the tech department. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
+``` 
+Target Population: Individuals in entry and lower level positions in tech positions. 
+Sampling Frame: All entry and lower level positions within the company. 
+Sampling Units: Individuals
+Observational Units: Individuals
+Sampling Strategy: Simple Random Sampling 
+Reasoning: The reason I selected simple random sampling is because my goal is to collect information from those in entry and lower level positions in tech positions only. From this population I don't need to further subdivide them so this would be the best method in this situation. 
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1. Do you plan on leaving the company within the next six months? Yes or No
+2. Do you feel that your contributions are recognized and valued by your supervisors and colleagues? Yes or No
+3. Have you received adequate training and support to perform your job effectively? Yes or No
+4. Have you experienced any instances of workplace stress or burnout? Yes or No
+5. How would you rate the support you receive from your immediate supervisor? On a scale from 1-10.
 
 ## Rubric
 
