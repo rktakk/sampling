@@ -4,19 +4,38 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    While the quality of my sample is ok and a representation of my target population, I believe it would be beneficial for the company to gather information from other roles within the company to truly understand what is going on. For example, it would be beneficial to compare the answers of those in higher positions to those in junior roles. As well as comparing other junior roles within the company to those that have high turn over. It could reveal something that may be over looked otherwise. 
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    ***Original Survey from Assignment 2:
+    1. Do you plan on leaving the company within the next six months? Yes or No
+    2. Do you feel that your contributions are recognized and valued by your supervisors and colleagues? Yes or No
+    3. Have you received adequate training and support to perform your job effectively? Yes or No
+    4. Have you experienced any instances of workplace stress or burnout? Yes or No
+    5. How would you rate the support you receive from your immediate supervisor? On a scale from 1-10.
+
+    ***Updated Survey for Assignment 3:
+    *Survey ID would be assigned at random to keep the participants anonymous so they can           hopefully provide honest feedback.
+    *Depending on the size of the department, positions should also be kept anonymous or as         vauge as possible. Just classify them as entry level, experianced etc. Grouping them by        either their immediate supervisor or department head.
+
+    Updated Questions for Assignment 3:
+    1. How satisfied are you with your current role? On a scale from 1 to 5.
+    2. Have you ever considered leaving Tech Company? If yes, what were the primary reasons           for considering leaving? Open ended question to gather more information. 
+    3. Have you received adequate training and support to perform your job effectively?
+       Yes or No
+    4. Do you feel that your contributions are recognized and valued by your supervisors and          colleagues? Yes or No
+    5. Have you experienced any instances of workplace stress or burnout? Yes or No
+    6. Is there additional feedback, comments or concerns you would like to provide? Open             ended question to gather more information. 
+
     ```
 
-3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
+4. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    No for the purpose of my survey, I don't believe it could be fulfilled by observation alone. It would be incredibly difficult to guage the emotions an invidiual is feeling or they may mask how they are truly feeling for fear of losing their job. 
     ```
 
 ## Why am I doing this assignment?
