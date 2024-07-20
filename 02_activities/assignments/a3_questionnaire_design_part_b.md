@@ -18,17 +18,17 @@
     5. How would you rate the support you receive from your immediate supervisor? On a scale from 1-10.
 
     ***Updated Survey for Assignment 3:
-    *Survey ID would be assigned at random to keep the participants anonymous so they can           hopefully provide honest feedback.
-    *Depending on the size of the department, positions should also be kept anonymous or as         vauge as possible. Just classify them as entry level, experianced etc. Grouping them by        either their immediate supervisor or department head.
+    *Survey ID would be assigned at random to keep the participants anonymous so they can hopefully provide honest feedback.
+    *Depending on the size of the department, positions should also be kept anonymous or as vauge as possible. Just classify them as entry level, experianced etc. Grouping them by either their immediate supervisor or department head.
 
     Updated Questions for Assignment 3:
     1. How satisfied are you with your current role? On a scale from 1 to 5.
-    2. Have you ever considered leaving Tech Company? If yes, what were the primary reasons           for considering leaving? Open ended question to gather more information. 
+    2. Have you ever considered leaving Tech Company? If yes, what were the primary reasons for considering leaving? Open ended question to gather more information. 
     3. Have you received adequate training and support to perform your job effectively?
        Yes or No
-    4. Do you feel that your contributions are recognized and valued by your supervisors and          colleagues? Yes or No
+    4. Do you feel that your contributions are recognized and valued by your supervisors and colleagues? Yes or No
     5. Have you experienced any instances of workplace stress or burnout? Yes or No
-    6. Is there additional feedback, comments or concerns you would like to provide? Open             ended question to gather more information. 
+    6. Is there additional feedback, comments or concerns you would like to provide? Open ended question to gather more information. 
 
     ```
 
